@@ -1,5 +1,19 @@
 # Z.ai Hosting Patcher
 
+<div align="center">
+
+## 🚀 Z.AI GLM Coding Plan — 10% OFF your first subscription
+
+Claim with invite code **`R0K78RJKNW`** → **[z.ai/subscribe?ic=R0K78RJKNW](https://z.ai/subscribe?ic=R0K78RJKNW)**
+
+[![GLM Coding Plan: 10% OFF with invite code R0K78RJKNW](https://img.shields.io/badge/Z.AI_GLM_Coding_Plan-10%25_OFF_%C2%B7_code_R0K78RJKNW-EA2865?style=for-the-badge)](https://z.ai/subscribe?ic=R0K78RJKNW)
+
+<sub>Same plan, 10% cheaper — and it supports this kit's development at no extra cost to you.</sub>
+
+</div>
+
+---
+
 **A self-healing deploy kit for [z.ai fullstack hosting](https://z.ai).** Drop it into any
 Next.js project and it installs the two scripts the platform's deploy pipeline expects —
 plus the recovery logic for every hosting failure mode we have hit so far.
